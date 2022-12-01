@@ -1,2 +1,3 @@
-# MyReact
-Bài tập môn React
+##Bài tập môn React
+## Lý thuyết
+1. [Câu 9](https://codepen.io/Tklet/pen/wvXWeKz)
