@@ -10,6 +10,7 @@
 9. [Câu 15 cách 2](https://codepen.io/Tklet/pen/zYajVvq)
 10. [Câu 16](https://codepen.io/Tklet/pen/WNyXLog)
 11. [Câu 17](https://codepen.io/Tklet/pen/QWxmZpJ)
-12. [Câu 18]()
-13. []
-14. []
+12. [Câu 18](https://codepen.io/Tklet/pen/LYrgJWy)
+13. [Câu 19](https://codepen.io/Tklet/pen/GRGYXmd)
+14. [Câu 20](https://codepen.io/Tklet/pen/JjZmarW)
+15. [Câu 21](https://codepen.io/Tklet/pen/eYKPLeJ)
