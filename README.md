@@ -16,3 +16,4 @@
 ##  Thực hành
 1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/romantic-scott-10jv0m)
 2. [prop&state](https://codepen.io/Tklet/pen/ExReJyN)
+3. [thực hành số 1](https://codepen.io/Tklet/pen/jOKRwpW)
