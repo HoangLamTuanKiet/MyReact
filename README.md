@@ -15,4 +15,4 @@
 14. [Câu 20]()
 15. [Câu 21]()
 ##  Thực hành
-1. 
+1. [prop&state](https://codepen.io/Tklet/pen/ExReJyN)
